@@ -1,0 +1,39 @@
+:root{
+
+--primary:#2563EB;
+
+--secondary:#0EA5E9;
+
+--success:#10B981;
+
+--warning:#F59E0B;
+
+--danger:#EF4444;
+
+--dark:#1E293B;
+
+--light:#F8FAFC;
+
+--white:#ffffff;
+
+.text-primary{
+    color:#0F62FE;
+}
+
+.bg-primary{
+    background:#0F62FE;
+}
+
+.bg-light{
+    background:#F8FAFC;
+}
+
+.bg-dark{
+    background:#0F172A;
+}
+
+.container{
+    max-width:1200px;
+    margin:auto;
+}
+}
